@@ -1,5 +1,5 @@
 # Dan Amir and Aviv Golan Final Project
-# The code must run on python 3.12!
+The code must run on python 3.12!
 
 ## Execution instructions:
         1. Run this in the console to install all necessary dependencies:
