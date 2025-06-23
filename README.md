@@ -1,11 +1,11 @@
 # The code must run on python 3.12!
 
-# Execution instructions:
-#         1. Run this in the console to install all necessary dependencies:
-#               'python3.12 -m pip install ogb POT prettytable tqdm torch==2.5.1 matplotlib && \ python3.12 -m pip install torch-geometric'      
-#         2. Run in the console: 'python3.12 WEGL_RandomForest_ogbg_molhiv.py', it will execute the code on molhiv dataset.
+## Execution instructions:
+        1. Run this in the console to install all necessary dependencies:
+               'python3.12 -m pip install ogb POT prettytable tqdm torch==2.5.1 matplotlib && \ python3.12 -m pip install torch-geometric'      
+         2. Run in the console: 'python3.12 WEGL_RandomForest_ogbg_molhiv.py', it will execute the code on molhiv dataset.
 
-# Wasserstein Embedding for Graph Learning (WEGL):::
+## Wasserstein Embedding for Graph Learning (WEGL):::
 
 This reposority contains a sample implementation code pertaining to our recent work, [Wasserstein Embedding for Graph Learning (WEGL)](https://arxiv.org/abs/2006.09430), in which we leverage the linear optimal transport (LOT) theory to introduce a novel and fast framework for embedding entire graphs in a vector space that can then be used for graph classification tasks.
 
