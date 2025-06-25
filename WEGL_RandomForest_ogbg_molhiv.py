@@ -98,7 +98,8 @@ for result_table in results:
 
 print(final_table)
 
-# === Cell 9 ===import matplotlib.pyplot as plt
+# === Cell 9 ===
+import matplotlib.pyplot as plt
 import numpy as np
 
 methods = []
@@ -161,4 +162,3 @@ for bars in [bars1, bars2, bars3]:
         )
 
 plt.show()
-
